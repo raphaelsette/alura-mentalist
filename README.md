@@ -6,7 +6,7 @@
   ## 
   </div>
   
-  Desenvolvimento de um jogo que adivinha números utilizando JavaScript, HTML5 e CSS3.
+  Desenvolvimento de um jogo de adivinhação de números utilizando JavaScript, HTML5 e CSS3.
   
   - Você insere um número de 0 a 10 e clica em chutar
   - O jogo sorteia um novo número toda vez que é clicado no botão
