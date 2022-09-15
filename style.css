@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
+html {
+    position: relative;
+    min-height: 100%;
+}
 body {
     font-family: 'Inter', sans-serif;
     background: #000000;
@@ -7,6 +11,7 @@ body {
     font-size: 16px;
     display: flex;
     flex-direction: column;
+    margin-bottom: 100px;
 }
 header {
     text-align: center;
@@ -80,17 +85,4 @@ footer {
 }
 footer img {
     margin: 0 auto 0 auto;
-}
-@keyframes animate {
-    0% {
-        opacity: 0;
-    }
-
-    50% {
-        opacity: 0.7;
-    }
-
-    100% {
-        opacity: 0;
-    }
 }
