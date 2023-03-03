@@ -15,7 +15,7 @@
   
  ## Preview
 
-[https://raphaelsette.github.io/mentalista/](https://raphaelsette.github.io/mentalista/)
+[https://raphaelsette.github.io/mentalist/](https://raphaelsette.github.io/mentalist/)
 
 ## References
 
