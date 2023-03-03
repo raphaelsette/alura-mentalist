@@ -6,18 +6,18 @@
   ## 
   </div>
   
-  Desenvolvimento de um jogo de adivinhação de números utilizando JavaScript, HTML5 e CSS3.
+  Development of a number guessing game using JavaScript, HTML5, and CSS3.
   
-  - Você insere um número de 0 a 10 e clica em chutar
-  - O jogo sorteia um novo número toda vez que é clicado no botão
-  - Exibe na tela a mensagem se acertou ou não
+- You enter a number from 0 to 10 and click on "chutar"
+- The game randomly selects a new number every time the button is clicked
+- Displays on the screen a message whether you guessed it right or wrong.
  
   
- ## Demonstração
+ ## Preview
 
 [https://raphaelsette.github.io/mentalista/](https://raphaelsette.github.io/mentalista/)
 
-## Referências
+## References
 
  - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators" target="_blank">Operadores boleanos</a>
  - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat" target="_blank">parseFloat</a>
@@ -26,6 +26,6 @@
  - <a href="https://sweetalert2.github.io/" target="_blank">Sweetalert2</a>
  - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Documentação JavaScript</a>
 
-## Autores
+## Authors
 
 - [@raphaelsette](https://www.github.com/raphaelsette)
