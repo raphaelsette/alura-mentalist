@@ -8,11 +8,11 @@ function Chutar(){
         Swal.fire({icon: 'error',title: 'Oops...',text: 'Você esqueceu de digitar um número!'});
     } else {
         if (numeroDoChute == numeroSecreto){
-            resultadoDoChute.innerHTML = "Parabéns, você <p id='aviso-acertou'>ACERTOU!</p>";
+            resultadoDoChute.innerHTML = "Parabéns, você <p id='aviso-acertou'>ACERTOU!</p><br>Eu pensei no número " + numeroSecreto + ".";
         } else if (numeroDoChute > 10 || numeroDoChute < 0) {
             Swal.fire({icon: 'error',title: 'Oops...',text: 'Só é permitido números de 0 a 10!'});
         } else {
-            resultadoDoChute.innerHTML = "Que pena, você <p id='aviso-errou'>ERROU!</p><br>O número secreto era " + numeroSecreto + ".";
+            resultadoDoChute.innerHTML = "Que pena, você <p id='aviso-errou'>ERROU!</p><br>Eu pensei no número " + numeroSecreto + ".";
         }
     }
 }
