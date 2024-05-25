@@ -31,32 +31,48 @@ main {
     font-size: 20px;
     width: 100%;
 }
+
 main input {
     margin: 30px auto 0 auto;
-    width: 10%;
+    width: 120px;
     height: 50px;
     font-size: 30px;
     font-weight: bold;
     border: none;
     text-align: center;
+    border-radius: 10px;
 }
 main input:focus {
     border: none;
 }
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+    
+}
+input[type=number] { 
+   -moz-appearance: textfield;
+   appearance: textfield;
+
+}
 main button {
-    width: 11%;
-    height: 50px;
-    margin: 10px auto 50px auto;
+    width: 60px;
+    height: 40px;
+    margin: 5px;
     font-weight: bold;
-    font-size: 15px;
-    background: #40c4ff;
+    font-size: 13px;
     color: #FFFFFF;
+    background: #000000;
+    border: 1px solid #40c4ff;
+    border-radius: 10px;
     cursor: pointer;
 }
 main button:hover {
     color: #FFFFFF;
-    background: #000000;
-    border: 1px solid #40c4ff;
+    background: #40c4ff;
+    border: 1px solid #000000;
+}
+#resultado-do-chute {
+    padding-top: 15px;
 }
 #aviso-acertou {
     display: inline;
