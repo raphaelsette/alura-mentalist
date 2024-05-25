@@ -31,13 +31,20 @@ main {
     font-size: 20px;
     width: 100%;
 }
-
+section {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+}
 main input {
-    margin: 30px auto 0 auto;
+    margin: 5px;
     width: 120px;
     height: 50px;
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 25px;
+    font-weight: regular;
     border: none;
     text-align: center;
     border-radius: 10px;
@@ -55,10 +62,11 @@ input[type=number] {
 
 }
 main button {
-    width: 60px;
-    height: 40px;
+    width: 80px;
+    height: 50px;
     margin: 5px;
     font-weight: bold;
+    text-align: center;
     font-size: 13px;
     color: #FFFFFF;
     background: #000000;
@@ -69,7 +77,7 @@ main button {
 main button:hover {
     color: #FFFFFF;
     background: #40c4ff;
-    border: 1px solid #000000;
+    border: none;
 }
 #resultado-do-chute {
     padding-top: 15px;
