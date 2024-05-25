@@ -1,14 +1,14 @@
 <div align="center">
   <a href="https://imersao.dev/">
-  <img height="65em" src="https://raphaelsette.github.io/mentalista/logo-imersao-mentalista.svg"/><br><br>
-  <img height="65em" src="https://imersao.dev/assets/img/alura-logo-white.1647533645.svg"/></a><br>
+  <img height="65em" src="https://raphaelsette.github.io/alura-mentalist/src/img/logo-imersao-mentalista.svg"/><br><br>
+  <img height="65em" src="https://raphaelsette.github.io/alura-mentalist/src/img/alura-logo.svg"/></a><br>
   
   ## 
   </div>
   
   Development of a number guessing game using JavaScript, HTML5, and CSS3.
   
-- You enter a number from 0 to 10 and click on "chutar"
+- You enter a number from 0 to 10 and click on "Adivinhar"
 - The game randomly selects a new number every time the button is clicked
 - Displays on the screen a message whether you guessed it right or wrong.
  
