@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://imersao.dev/">
-  <img height="65em" src="https://raphaelsette.github.io/alura-mentalist/src/img/logo-imersao-mentalista.svg"/><br><br>
-  <img height="65em" src="https://raphaelsette.github.io/alura-mentalist/src/img/alura-logo.svg"/></a><br>
+  <img height="65em" src="https://raphaelsette.github.io/alura-mentalist/assets/img/logo-imersao-mentalista.svg"/><br><br>
+  <img height="65em" src="https://raphaelsette.github.io/alura-mentalist/assets/img/alura-logo.svg"/></a><br>
   
   ## 
   </div>
